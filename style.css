@@ -1,0 +1,14 @@
+body {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    color: #000000;
+}
+
+.slider {
+    div {
+        width: 100%;
+    }
+}
